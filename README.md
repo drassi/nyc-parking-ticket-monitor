@@ -63,11 +63,14 @@ The NYCServ page claims to have maintenance hours 1:00 AM - 2:15 AM nightly and 
 
 ## FAQ
 Q: Why make this?
+
 A: I wanted to learn how to use `mechanize`, but also thought it might be useful to help avoid being quadruple-ticketed or towed if you leave your vehicle in sketchy locations for indeterminate lengths of time.  Uh, hypothetically.  But I'm not exactly sure how long it takes new tickets to show up in the system, so don't blame me if that happens to you.
 
 Q: How can I get the 2010 alternate side parking calendar to show up in my google calendar?
+
 A: Add By URL: http://www.nyc.gov/html/dot/downloads/excel/altside2010.ics
 The calendar is published in other formats [here](http://www.nyc.gov/html/dot/html/motorist/disclaimer.shtml).
 
 Q: May I use this application for unauthorized purposes?
+
 A: Unfortunately not, the NYCServ [FAQ](http://nycserv.nyc.gov/NYCServWeb/FAQ.html) states that the website may only be used for authorized purposes.
