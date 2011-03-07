@@ -68,7 +68,7 @@ A: I wanted to learn how to use `mechanize`, but also thought it might be useful
 
 Q: How can I get the 2010 alternate side parking calendar to show up in my google calendar?
 
-A: Add By URL: http://www.nyc.gov/html/dot/downloads/excel/altside2010.ics
+A: Add By URL: http://www.nyc.gov/html/dot/downloads/excel/asp2011.ics
 The calendar is published in other formats [here](http://www.nyc.gov/html/dot/html/motorist/disclaimer.shtml).
 
 Q: May I use this application for unauthorized purposes?
