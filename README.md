@@ -24,6 +24,7 @@ Run the script with two file arguments, like so:
 `tickets.txt` is a path to a file that the script should use to remember tickets it's seen in the past.  This file will be created the first time a ticket is found, so it doesn't need to exist when the script is run.
 
 Running the script will print out a formatted list of new tickets it's found:
+
     --------------------------------
     Plate: FLYGURL2
     State: New York
@@ -68,7 +69,7 @@ A: I wanted to learn how to use `mechanize`, but also thought it might be useful
 
 Q: How can I get the 2011 alternate side parking calendar to show up in my google calendar?
 
-A: Add By URL: http://www.nyc.gov/html/dot/downloads/excel/asp2011.ics
+A: Add By URL: http://www.nyc.gov/html/dot/downloads/excel/2012_alternate_side.ics
 The calendar is published in other formats [here](http://www.nyc.gov/html/dot/html/motorist/disclaimer.shtml).
 
 Q: May I use this application for unauthorized purposes?
