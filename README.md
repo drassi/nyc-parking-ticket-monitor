@@ -67,10 +67,10 @@ Q: Why make this?
 
 A: I wanted to learn how to use `mechanize`, but also thought it might be useful to help avoid being quadruple-ticketed or towed if you leave your vehicle in sketchy locations for indeterminate lengths of time.  Uh, hypothetically.  But I'm not exactly sure how long it takes new tickets to show up in the system, so don't blame me if that happens to you.
 
-Q: How can I get the 2011 alternate side parking calendar to show up in my google calendar?
+Q: How can I get the 2012 alternate side parking calendar to show up in my google calendar?
 
 A: Add By URL: http://www.nyc.gov/html/dot/downloads/excel/2012_alternate_side.ics
-The calendar is published in other formats [here](http://www.nyc.gov/html/dot/html/motorist/disclaimer.shtml).
+The calendar is published in other formats [here](http://www.nyc.gov/html/dot/html/motorist/scrintro.shtml).
 
 Q: May I use this application for unauthorized purposes?
 
